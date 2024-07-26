@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "أدرار",
+    "name_fr": "Adrar"
+  },
+  {
+    "id": 2,
+    "name": "الشلف",
+    "name_fr": "Chlef"
+  },
+  {
+    "id": 3,
+    "name": "الأغواط",
+    "name_fr": "Laghouat"
+  },
+  {
+    "id": 4,
+    "name": "أم البواقي",
+    "name_fr": "Oum El Bouaghi"
+  },
+  {
+    "id": 5,
+    "name": "باتنة",
+    "name_fr": "Batna"
+  },
+  {
+    "id": 6,
+    "name": "بجاية",
+    "name_fr": "Béjaïa"
+  },
+  {
+    "id": 7,
+    "name": "بسكرة",
+    "name_fr": "Biskra"
+  },
+  {
+    "id": 8,
+    "name": "بشار",
+    "name_fr": "Béchar"
+  },
+  {
+    "id": 9,
+    "name": "البليدة",
+    "name_fr": "Blida"
+  },
+  {
+    "id": 10,
+    "name": "البويرة",
+    "name_fr": "Bouira"
+  },
+  {
+    "id": 11,
+    "name": "تمنراست",
+    "name_fr": "Tamanrasset"
+  },
+  {
+    "id": 12,
+    "name": "تبسة",
+    "name_fr": "Tébessa"
+  },
+  {
+    "id": 13,
+    "name": "تلمسان",
+    "name_fr": "Tlemcen"
+  },
+  {
+    "id": 14,
+    "name": "تيارت",
+    "name_fr": "Tiaret"
+  },
+  {
+    "id": 15,
+    "name": "تيزي وزو",
+    "name_fr": "Tizi Ouzou"
+  },
+  {
+    "id": 16,
+    "name": "الجزائر",
+    "name_fr": "Alger"
+  },
+  {
+    "id": 17,
+    "name": "الجلفة",
+    "name_fr": "Djelfa"
+  },
+  {
+    "id": 18,
+    "name": "جيجل",
+    "name_fr": "Jijel"
+  },
+  {
+    "id": 19,
+    "name": "سطيف",
+    "name_fr": "Sétif"
+  },
+  {
+    "id": 20,
+    "name": "سعيدة",
+    "name_fr": "Saïda"
+  },
+  {
+    "id": 21,
+    "name": "سكيكدة",
+    "name_fr": "Skikda"
+  },
+  {
+    "id": 22,
+    "name": "سيدي بلعباس",
+    "name_fr": "Sidi Bel Abbès"
+  },
+  {
+    "id": 23,
+    "name": "عنابة",
+    "name_fr": "Annaba"
+  },
+  {
+    "id": 24,
+    "name": "قالمة",
+    "name_fr": "Guelma"
+  },
+  {
+    "id": 25,
+    "name": "قسنطينة",
+    "name_fr": "Constantine"
+  },
+  {
+    "id": 26,
+    "name": "المدية",
+    "name_fr": "Médéa"
+  },
+  {
+    "id": 27,
+    "name": "مستغانم",
+    "name_fr": "Mostaganem"
+  },
+  {
+    "id": 28,
+    "name": "المسيلة",
+    "name_fr": "M'Sila"
+  },
+  {
+    "id": 29,
+    "name": "معسكر",
+    "name_fr": "Mascara"
+  },
+  {
+    "id": 30,
+    "name": "ورقلة",
+    "name_fr": "Ouargla"
+  },
+  {
+    "id": 31,
+    "name": "وهران",
+    "name_fr": "Oran"
+  },
+  {
+    "id": 32,
+    "name": "البيض",
+    "name_fr": "Bayadh"
+  },
+  {
+    "id": 33,
+    "name": "إيليزي",
+    "name_fr": "Illizi"
+  },
+  {
+    "id": 34,
+    "name": "برج بوعريريج",
+    "name_fr": "Bordj Bou Arreridj"
+  },
+  {
+    "id": 35,
+    "name": "بومرداس",
+    "name_fr": "Boumerdès"
+  },
+  {
+    "id": 36,
+    "name": "الطارف",
+    "name_fr": "El Tarf"
+  },
+  {
+    "id": 37,
+    "name": "تيندوف",
+    "name_fr": "Tindouf"
+  },
+  {
+    "id": 38,
+    "name": "تيسمسيلت",
+    "name_fr": "Tissemsilt"
+  },
+  {
+    "id": 39,
+    "name": "الوادي",
+    "name_fr": "El Oued"
+  },
+  {
+    "id": 40,
+    "name": "خنشلة",
+    "name_fr": "Khenchela"
+  },
+  {
+    "id": 41,
+    "name": "سوق أهراس",
+    "name_fr": "Souk Ahras"
+  },
+  {
+    "id": 42,
+    "name": "تيبازة",
+    "name_fr": "Tipaza"
+  },
+  {
+    "id": 43,
+    "name": "ميلة",
+    "name_fr": "Mila"
+  },
+  {
+    "id": 44,
+    "name": "عين الدفلى",
+    "name_fr": "Aïn Defla"
+  },
+  {
+    "id": 45,
+    "name": "النعامة",
+    "name_fr": "Naâma"
+  },
+  {
+    "id": 46,
+    "name": "عين تموشنت",
+    "name_fr": "Aïn Témouchent"
+  },
+  {
+    "id": 47,
+    "name": "غرداية",
+    "name_fr": "Ghardaïa"
+  },
+  {
+    "id": 48,
+    "name": "غليزان",
+    "name_fr": "Relizane"
+  },
+  {
+    "id": 49,
+    "name": "تيميمون",
+    "name_fr": "Timimoun"
+  },
+  {
+    "id": 50,
+    "name": "برج باجي مختار",
+    "name_fr": "Bordj Badji Mokhtar"
+  },
+  {
+    "id": 51,
+    "name": "أولاد جلال",
+    "name_fr": "Ouled Djellal"
+  },
+  {
+    "id": 52,
+    "name": "بني عباس",
+    "name_fr": "Béni Abbès"
+  },
+  {
+    "id": 53,
+    "name": "عين صالح",
+    "name_fr": "In Salah"
+  },
+  {
+    "id": 54,
+    "name": "عين قزام",
+    "name_fr": "In Guezzam"
+  },
+  {
+    "id": 55,
+    "name": "توقرت",
+    "name_fr": "Touggourt"
+  },
+  {
+    "id": 56,
+    "name": "جانت",
+    "name_fr": "Djanet"
+  },
+  {
+    "id": 57,
+    "name": "المغير",
+    "name_fr": "El M'Ghair"
+  },
+  {
+    "id": 58,
+    "name": "المنيعة",
+    "name_fr": "El Meniaa"
+  }
+]
