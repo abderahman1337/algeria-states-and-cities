@@ -6267,6 +6267,7 @@
     "wilaya_id": 49,
     "name": "تيميمون",
     "name_fr": "Timimoun",
+    "original_wilaya_id": 1,
     "communes": [
       {
         "name": "تنركوك",
@@ -6314,6 +6315,7 @@
     "wilaya_id": 50,
     "name": "برج باجي مختار",
     "name_fr": "Bordj Badji Mokhtar",
+    "original_wilaya_id": 1,
     "communes": [
       {
         "name": "تيمياوين",
@@ -6329,6 +6331,7 @@
     "wilaya_id": 51,
     "name": "أولاد جلال",
     "name_fr": "Ouled Djellal",
+    "original_wilaya_id": 7,
     "communes": [
       {
         "name": "رأس الميعاد",
@@ -6360,6 +6363,7 @@
     "wilaya_id": 52,
     "name": "بني عباس",
     "name_fr": "Béni Abbès",
+    "original_wilaya_id": 8,
     "communes": [
       {
         "name": "تبلبالة",
@@ -6407,6 +6411,7 @@
     "wilaya_id": 53,
     "name": "عين صالح",
     "name_fr": "In Salah",
+    "original_wilaya_id": 11,
     "communes": [
       {
         "name": "إينغر",
@@ -6426,6 +6431,7 @@
     "wilaya_id": 54,
     "name": "عين قزام",
     "name_fr": "In Guezzam",
+    "original_wilaya_id": 11,
     "communes": [
       {
         "name": "تين زواتين",
@@ -6441,6 +6447,7 @@
     "wilaya_id": 55,
     "name": "توقرت",
     "name_fr": "Touggourt",
+    "original_wilaya_id": 30,
     "communes": [
       {
         "name": "تماسين",
@@ -6500,6 +6507,7 @@
     "wilaya_id": 56,
     "name": "جانت",
     "name_fr": "Djanet",
+    "original_wilaya_id": 33,
     "communes": [
       {
         "name": "جانت",
@@ -6515,6 +6523,7 @@
     "wilaya_id": 57,
     "name": "المغير",
     "name_fr": "El M'Ghair",
+    "original_wilaya_id": 39,
     "communes": [
       {
         "name": "أم الطيور",
@@ -6554,6 +6563,7 @@
     "wilaya_id": 58,
     "name": "المنيعة",
     "name_fr": "El Meniaa",
+    "original_wilaya_id": 47,
     "communes": [
       {
         "name": "المنيعة",
