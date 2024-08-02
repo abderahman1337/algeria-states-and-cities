@@ -242,51 +242,61 @@
   {
     "id": 49,
     "name": "تيميمون",
-    "name_fr": "Timimoun"
+    "name_fr": "Timimoun",
+    "original_wilaya_id": 1
   },
   {
     "id": 50,
     "name": "برج باجي مختار",
-    "name_fr": "Bordj Badji Mokhtar"
+    "name_fr": "Bordj Badji Mokhtar",
+    "original_wilaya_id": 1
   },
   {
     "id": 51,
     "name": "أولاد جلال",
-    "name_fr": "Ouled Djellal"
+    "name_fr": "Ouled Djellal",
+    "original_wilaya_id": 7
   },
   {
     "id": 52,
     "name": "بني عباس",
-    "name_fr": "Béni Abbès"
+    "name_fr": "Béni Abbès",
+    "original_wilaya_id": 8
   },
   {
     "id": 53,
     "name": "عين صالح",
-    "name_fr": "In Salah"
+    "name_fr": "In Salah",
+    "original_wilaya_id": 11
   },
   {
     "id": 54,
     "name": "عين قزام",
-    "name_fr": "In Guezzam"
+    "name_fr": "In Guezzam",
+    "original_wilaya_id": 11
   },
   {
     "id": 55,
     "name": "توقرت",
-    "name_fr": "Touggourt"
+    "name_fr": "Touggourt",
+    "original_wilaya_id": 30
   },
   {
     "id": 56,
     "name": "جانت",
-    "name_fr": "Djanet"
+    "name_fr": "Djanet",
+    "original_wilaya_id": 33
   },
   {
     "id": 57,
     "name": "المغير",
-    "name_fr": "El M'Ghair"
+    "name_fr": "El M'Ghair",
+    "original_wilaya_id": 39
   },
   {
     "id": 58,
     "name": "المنيعة",
-    "name_fr": "El Meniaa"
+    "name_fr": "El Meniaa",
+    "original_wilaya_id": 47
   }
 ]
